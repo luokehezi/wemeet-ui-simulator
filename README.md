@@ -34,3 +34,9 @@
 ## 第三方组件与声明
 
 截图功能内嵌 [html2canvas-pro](https://github.com/yorickshan/html2canvas-pro) 2.4.5，采用 MIT 许可证；许可文本见 [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md)。界面和商标的权利归各自权利人所有。本项目与腾讯会议官方无关联。
+
+
+## 贡献者
+
+- [luokehezi](https://github.com/luokehezi)：项目作者与维护者。
+- [ChatGPT](https://chatgpt.com/)：协助界面迭代与文档编写。
